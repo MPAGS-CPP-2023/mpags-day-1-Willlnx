@@ -11,4 +11,3 @@ Instructions are listed on the MPAG C++ day 1 page.
 MPAG C++ programme.
 
 ## documentation
-Documentation found on the github website.
